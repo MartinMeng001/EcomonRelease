@@ -1,0 +1,7 @@
+Debug: 查询到 -1 条记录
+Debug: Selected item:  "none"
+Debug: Selected index: -1
+Debug: 查询到[ -1 ]条记录
+Debug: 查询到[ -1 ]条记录
+Debug: Qt Plugin Path:  QList("D:/git-temp/Ecomon/EcomonRelease/EcomonHelloV1/plugins", "D:/git-temp/Ecomon/EcomonRelease/EcomonHelloV1")
+Debug: database closed
